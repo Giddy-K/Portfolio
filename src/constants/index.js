@@ -258,6 +258,28 @@ const projects = [
     live_link: "https://ican-six.vercel.app/",
     source_code_link: "https://github.com/",
   },
+  {
+    name: "NFTopia: Realm Of Cards",
+    description:
+      "Discover a world where NFTs ignite thrilling card battles and unlock boundless possibilities! Welcome to NFTopia: Realm of Cards - where legends are forged, treasures await, and your adventure begins! Let the quest unfold! 🏰🌟",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Solidity",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Typescript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: ican,
+    live_link: "https://659c36eeeaaf090759615ad3--dynamic-granita-e11512.netlify.app/",
+    source_code_link: "https://github.com/",
+  },
   // {
   //   name: "Trip Guide",
   //   description:
