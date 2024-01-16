@@ -26,6 +26,7 @@ import {
   flutter,
   cpp,
   c,
+  nftopia,
 } from "../assets";
 
 export const navLinks = [
@@ -276,7 +277,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: ican,
+    image: nftopia,
     live_link: "https://659c36eeeaaf090759615ad3--dynamic-granita-e11512.netlify.app/",
     source_code_link: "https://github.com/",
   },
