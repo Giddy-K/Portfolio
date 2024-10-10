@@ -337,7 +337,7 @@ const projects = [
     image: linkedint,
     live_link: "",
     source_code_link: "https://github.com/Giddy-K/LinkedInt.git",
-  }  
+  },
   // {
   //   name: "Trip Guide",
   //   description:
