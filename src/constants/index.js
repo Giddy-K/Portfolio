@@ -235,7 +235,7 @@ const projects = [
     ],
     image: stockmgt,
     live_link: "https://atlas-stock-app.vercel.app/",
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Giddy-K/atlas-inventory-management-system.git",
   },
   {
     name: "ICAN",
@@ -279,7 +279,7 @@ const projects = [
     ],
     image: nftopia,
     live_link: "https://659c36eeeaaf090759615ad3--dynamic-granita-e11512.netlify.app/",
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Giddy-K/NFTopia.git",
   },
   // {
   //   name: "Trip Guide",
