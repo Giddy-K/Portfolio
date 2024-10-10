@@ -27,6 +27,8 @@ import {
   cpp,
   c,
   nftopia,
+  themaze,
+  linkedint,
 } from "../assets";
 
 export const navLinks = [
@@ -170,15 +172,26 @@ const experiences = [
     ],
   },
   {
-    title: "Full stack Developer",
+    title: "Full stack Developer | Game Developer | Cyber-Security",
     company_name: "FreeLancer",
     icon: placeholder,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
+      "Full stack Developer:",
       "Developing and maintaining web applications and android applications for various clients using React.js and flutter and other related technologies.",
       "Learning new technologies as i advance in my career",
       "Participating in code reviews and providing constructive feedback to other developers around the world.",
+      "Game Developer:",
+      "Designing and developing engaging 2D/3D game environments using Unity and C and C++.",
+      "Collaborating with artists and sound designers to create immersive game experiences.",
+      "Implementing game mechanics, user interfaces, and AI behavior for a variety of game genres.",
+      "Optimizing game performance across multiple platforms and devices.",
+      "Cyber-Security:",
+      "Conducting network and application vulnerability assessments to ensure robust security measures.",
+      "Implementing security protocols and practices to protect client systems from cyber threats.",
+      "Learning and applying penetration testing techniques on various platforms.",
+      "Staying updated with the latest security trends and potential attack vectors to safeguard systems.",
     ],
   },
 ];
@@ -281,6 +294,50 @@ const projects = [
     live_link: "https://659c36eeeaaf090759615ad3--dynamic-granita-e11512.netlify.app/",
     source_code_link: "https://github.com/Giddy-K/NFTopia.git",
   },
+  {
+    name: "The Maze",
+    description:
+      "The Maze is a 3D Maze game that uses ray casting to render a 2D map into a 3D navigable world! The Maze was written was written in C ussing SDL2 library. Deveploment was performed using Ubuntu 14.04 LTS - gcc (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4",
+    tags: [
+      {
+        name: "C",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "SDL2 library",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Ubuntu 14.04 LTS - gcc",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: themaze,
+    live_link: "",
+    source_code_link: "https://github.com/Giddy-K/The-Maze.git",
+  },
+  {
+    name: "LinkedInt",
+    description:
+      "LinkedInt is an open-source LinkedIn intelligence-gathering tool designed for educational and testing purposes. It allows users to input LinkedIn credentials and a Hunter.io API key to gather LinkedIn data, generate e-mail predictions, and embed profiles with images into HTML for offline viewing. The tool is developed in Python, focusing on usability and includes filters for specific companies, e-mail domain customization, and improved authentication flows.",
+    tags: [
+      {
+        name: "Python",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Web Scraping",
+        color: "green-text-gradient",
+      },
+      {
+        name: "API Integration",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: linkedint,
+    live_link: "",
+    source_code_link: "https://github.com/Giddy-K/LinkedInt.git",
+  }  
   // {
   //   name: "Trip Guide",
   //   description:

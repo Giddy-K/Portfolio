@@ -38,6 +38,8 @@ import tripguide from "./tripguide.png";
 import ican from "./ican.png";
 import stockmgt from "./stockmgt.png";
 import nftopia from "./NFTopia.png";
+import themaze from "./demo.gif";
+import linkedint from "./linkedint.png";
 
 export {
   ican,
@@ -77,4 +79,6 @@ export {
   jobit,
   tripguide,
   nftopia,
+  themaze,
+  linkedint,
 };
