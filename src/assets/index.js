@@ -40,6 +40,7 @@ import stockmgt from "./stockmgt.png";
 import nftopia from "./NFTopia.png";
 import themaze from "./demo.gif";
 import linkedint from "./linkedint.png";
+import reverseshell from "./reverseshell.jpg"
 
 export {
   ican,
@@ -81,4 +82,5 @@ export {
   nftopia,
   themaze,
   linkedint,
+  reverseshell,
 };

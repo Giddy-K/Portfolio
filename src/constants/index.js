@@ -29,6 +29,7 @@ import {
   nftopia,
   themaze,
   linkedint,
+  reverseshell,
 } from "../assets";
 
 export const navLinks = [
@@ -251,26 +252,26 @@ const projects = [
     source_code_link: "https://github.com/Giddy-K/atlas-inventory-management-system.git",
   },
   {
-    name: "ICAN",
+    name: "LinkedInt",
     description:
-      "Website for a CBO in Kenya that inspires and empowers girls particularly in Kajiado county",
+      "LinkedInt is an open-source LinkedIn intelligence-gathering tool designed for educational and testing purposes. It allows users to input LinkedIn credentials and a Hunter.io API key to gather LinkedIn data, generate e-mail predictions, and embed profiles with images into HTML for offline viewing. The tool is developed in Python, focusing on usability and includes filters for specific companies, e-mail domain customization, and improved authentication flows.",
     tags: [
       {
-        name: "HTML",
+        name: "Python",
         color: "blue-text-gradient",
       },
       {
-        name: "CSS",
+        name: "Web Scraping",
         color: "green-text-gradient",
       },
       {
-        name: "javascript",
+        name: "API Integration",
         color: "pink-text-gradient",
       },
     ],
-    image: ican,
-    live_link: "https://ican-six.vercel.app/",
-    source_code_link: "https://github.com/",
+    image: linkedint,
+    live_link: "",
+    source_code_link: "https://github.com/Giddy-K/LinkedInt.git",
   },
   {
     name: "NFTopia: Realm Of Cards",
@@ -317,27 +318,57 @@ const projects = [
     source_code_link: "https://github.com/Giddy-K/The-Maze.git",
   },
   {
-    name: "LinkedInt",
+    name: "ICAN",
     description:
-      "LinkedInt is an open-source LinkedIn intelligence-gathering tool designed for educational and testing purposes. It allows users to input LinkedIn credentials and a Hunter.io API key to gather LinkedIn data, generate e-mail predictions, and embed profiles with images into HTML for offline viewing. The tool is developed in Python, focusing on usability and includes filters for specific companies, e-mail domain customization, and improved authentication flows.",
+      "Website for a CBO in Kenya that inspires and empowers girls particularly in Kajiado county",
+    tags: [
+      {
+        name: "HTML",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: ican,
+    live_link: "https://ican-six.vercel.app/",
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "Reverse_shell_monitor",
+    description:
+      "Reverse_shell_monitor is a security tool designed to monitor and manage reverse shell connections. It is built using Python for scripting, PowerShell, Shell, VBScript, and Batchfile for automating and executing tasks across different environments. The tool aims to help system administrators and cybersecurity professionals identify, control, and terminate unauthorized reverse shell connections, ensuring system security and compliance.",
     tags: [
       {
         name: "Python",
         color: "blue-text-gradient",
       },
       {
-        name: "Web Scraping",
+        name: "PowerShell",
         color: "green-text-gradient",
       },
       {
-        name: "API Integration",
+        name: "Shell",
         color: "pink-text-gradient",
       },
+      {
+        name: "VBScript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Batchfile",
+        color: "green-text-gradient",
+      }
     ],
-    image: linkedint,
+    image: reverseshell,
     live_link: "",
-    source_code_link: "https://github.com/Giddy-K/LinkedInt.git",
-  },
+    source_code_link: "https://github.com/Giddy-K/Reverse_shell_monitor",
+  },  
   // {
   //   name: "Trip Guide",
   //   description:
