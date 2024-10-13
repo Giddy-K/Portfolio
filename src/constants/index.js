@@ -30,6 +30,7 @@ import {
   themaze,
   linkedint,
   reverseshell,
+  hades,
 } from "../assets";
 
 export const navLinks = [
@@ -225,32 +226,32 @@ const testimonials = [
 ];
 
 const projects = [
-  {
-    name: "Stock and Inventory Management Sysytem",
-    description:
-      "Web-based platform that allows users to manage stock in any business",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "ExpressJs",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "NodeJs",
-        color: "yellow-text-gradient",
-      },
-    ],
-    image: stockmgt,
-    live_link: "https://atlas-stock-app.vercel.app/",
-    source_code_link: "https://github.com/Giddy-K/atlas-inventory-management-system.git",
-  },
+  // {
+  //   name: "Stock and Inventory Management Sysytem",
+  //   description:
+  //     "Web-based platform that allows users to manage stock in any business",
+  //   tags: [
+  //     {
+  //       name: "react",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "mongodb",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "ExpressJs",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "NodeJs",
+  //       color: "yellow-text-gradient",
+  //     },
+  //   ],
+  //   image: stockmgt,
+  //   live_link: "https://atlas-stock-app.vercel.app/",
+  //   source_code_link: "https://github.com/Giddy-K/atlas-inventory-management-system.git",
+  // },
   {
     name: "LinkedInt",
     description:
@@ -272,6 +273,88 @@ const projects = [
     image: linkedint,
     live_link: "",
     source_code_link: "https://github.com/Giddy-K/LinkedInt.git",
+  },
+  {
+    name: "Hades_Control_RAT",
+    description:
+      "Hades_Control is a lightweight, native open-source C++ Remote Administration Tool (RAT) for Windows. It enables remote command execution via CMD, PowerShell, or any console-based application. The tool includes features such as keylogging, script execution, multiple connections, startup persistence, DNS resolving, and more. Ideal for system administrators and cybersecurity professionals, Lilith provides remote control and administration capabilities with low latency and minimal bandwidth usage.",
+    tags: [
+      {
+        name: "C++",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "PowerShell",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Shell",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Keylogger",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "CMD",
+        color: "green-text-gradient",
+      }
+    ],
+    image: hades,
+    live_link: "",
+    source_code_link: "https://github.com/Giddy-K/HadesControl.git",
+  },
+  {
+    name: "Reverse_shell_monitor",
+    description:
+      "Reverse_shell_monitor is a security tool designed to monitor and manage reverse shell connections. It is built using Python for scripting, PowerShell, Shell, VBScript, and Batchfile for automating and executing tasks across different environments. The tool aims to help system administrators and cybersecurity professionals identify, control, and terminate unauthorized reverse shell connections, ensuring system security and compliance.",
+    tags: [
+      {
+        name: "Python",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "PowerShell",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Shell",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "VBScript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Batchfile",
+        color: "green-text-gradient",
+      }
+    ],
+    image: reverseshell,
+    live_link: "",
+    source_code_link: "https://github.com/Giddy-K/Reverse_shell_monitor.git",
+  },
+  {
+    name: "ICAN",
+    description:
+      "Website for a CBO in Kenya that inspires and empowers girls particularly in Kajiado county",
+    tags: [
+      {
+        name: "HTML",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: ican,
+    live_link: "https://ican-six.vercel.app/",
+    source_code_link: "https://github.com/",
   },
   {
     name: "NFTopia: Realm Of Cards",
@@ -317,58 +400,6 @@ const projects = [
     live_link: "",
     source_code_link: "https://github.com/Giddy-K/The-Maze.git",
   },
-  {
-    name: "ICAN",
-    description:
-      "Website for a CBO in Kenya that inspires and empowers girls particularly in Kajiado county",
-    tags: [
-      {
-        name: "HTML",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "CSS",
-        color: "green-text-gradient",
-      },
-      {
-        name: "javascript",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: ican,
-    live_link: "https://ican-six.vercel.app/",
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Reverse_shell_monitor",
-    description:
-      "Reverse_shell_monitor is a security tool designed to monitor and manage reverse shell connections. It is built using Python for scripting, PowerShell, Shell, VBScript, and Batchfile for automating and executing tasks across different environments. The tool aims to help system administrators and cybersecurity professionals identify, control, and terminate unauthorized reverse shell connections, ensuring system security and compliance.",
-    tags: [
-      {
-        name: "Python",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "PowerShell",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Shell",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "VBScript",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Batchfile",
-        color: "green-text-gradient",
-      }
-    ],
-    image: reverseshell,
-    live_link: "",
-    source_code_link: "https://github.com/Giddy-K/Reverse_shell_monitor",
-  },  
   // {
   //   name: "Trip Guide",
   //   description:

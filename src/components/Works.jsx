@@ -1,6 +1,7 @@
 import React from "react";
 import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
+import PropTypes from 'prop-types';
 
 import { styles } from "../styles";
 import { github, live } from "../assets";
