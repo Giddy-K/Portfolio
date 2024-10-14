@@ -79,6 +79,22 @@ const ProjectCard = ({
   );
 };
 
+// Define prop types for ProjectCard component
+ProjectCard.propTypes = {
+  index: PropTypes.number.isRequired,
+  name: PropTypes.string.isRequired,
+  description: PropTypes.string.isRequired,
+  tags: PropTypes.arrayOf(
+    PropTypes.shape({
+      name: PropTypes.string.isRequired,
+      color: PropTypes.string.isRequired,
+    })
+  ).isRequired,
+  image: PropTypes.string.isRequired,
+  live_link: PropTypes.string.isRequired,
+  source_code_link: PropTypes.string.isRequired,
+};
+
 const Works = () => {
   return (
     <>

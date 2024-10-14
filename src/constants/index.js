@@ -31,6 +31,7 @@ import {
   linkedint,
   reverseshell,
   hades,
+  warpath,
 } from "../assets";
 
 export const navLinks = [
@@ -226,32 +227,32 @@ const testimonials = [
 ];
 
 const projects = [
-  // {
-  //   name: "Stock and Inventory Management Sysytem",
-  //   description:
-  //     "Web-based platform that allows users to manage stock in any business",
-  //   tags: [
-  //     {
-  //       name: "react",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "mongodb",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "ExpressJs",
-  //       color: "pink-text-gradient",
-  //     },
-  //     {
-  //       name: "NodeJs",
-  //       color: "yellow-text-gradient",
-  //     },
-  //   ],
-  //   image: stockmgt,
-  //   live_link: "https://atlas-stock-app.vercel.app/",
-  //   source_code_link: "https://github.com/Giddy-K/atlas-inventory-management-system.git",
-  // },
+  {
+    name: "Stock and Inventory Management Sysytem",
+    description:
+      "Web-based platform that allows users to manage stock in any business",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "ExpressJs",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "NodeJs",
+        color: "yellow-text-gradient",
+      },
+    ],
+    image: stockmgt,
+    live_link: "https://atlas-stock-app.vercel.app/",
+    source_code_link: "https://github.com/Giddy-K/atlas-inventory-management-system.git",
+  },
   {
     name: "LinkedInt",
     description:
@@ -400,27 +401,27 @@ const projects = [
     live_link: "",
     source_code_link: "https://github.com/Giddy-K/The-Maze.git",
   },
-  // {
-  //   name: "Trip Guide",
-  //   description:
-  //     "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-  //   tags: [
-  //     {
-  //       name: "nextjs",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "supabase",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "css",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: tripguide,
-  //   source_code_link: "https://github.com/",
-  // },
+  {
+    name: "Warpath Warriors",
+    description:
+      "Warpath Warriors is an adrenaline-fueled 2D fighting game that combines intense action with diverse characters, each with their unique fighting styles and abilities. Engage in thrilling battles, challenge your friends, and become the ultimate warrior!",
+    tags: [
+      {
+        name: "javascript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "html",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: warpath,
+    source_code_link: "https://github.com/Giddy-K/Warpath-Warriors.git",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };

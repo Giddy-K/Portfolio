@@ -42,6 +42,7 @@ import themaze from "./demo.gif";
 import linkedint from "./linkedint.png";
 import reverseshell from "./reverseshell.jpg";
 import hades from "./hades.jpg";
+import warpath from "./warpathheros.png";
 
 export {
   ican,
@@ -85,4 +86,5 @@ export {
   linkedint,
   reverseshell,
   hades,
+  warpath,
 };
