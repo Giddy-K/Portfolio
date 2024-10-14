@@ -43,6 +43,7 @@ import linkedint from "./linkedint.png";
 import reverseshell from "./reverseshell.jpg";
 import hades from "./hades.jpg";
 import warpath from "./warpathheros.png";
+import identeefi from "./identeefi.png";
 
 export {
   ican,
@@ -87,4 +88,5 @@ export {
   reverseshell,
   hades,
   warpath,
+  identeefi,
 };

@@ -32,6 +32,7 @@ import {
   reverseshell,
   hades,
   warpath,
+  identeefi,
 } from "../assets";
 
 export const navLinks = [
@@ -246,12 +247,41 @@ const projects = [
       },
       {
         name: "NodeJs",
-        color: "yellow-text-gradient",
+        color: "orange-text-gradient",
       },
     ],
     image: stockmgt,
     live_link: "https://atlas-stock-app.vercel.app/",
     source_code_link: "https://github.com/Giddy-K/atlas-inventory-management-system.git",
+  },
+  {
+    name: "Anti-Counterfeit Product Identification System",
+    description:
+      "The Anti-Counterfeit Product Identification System Using Blockchain is an innovative solution that uses blockchain technology to combat counterfeit products in various industries. It uses QR codes, smart contracts, and the Ethereum network to provide a secure and transparent platform for tracking and verifying product authenticity. The system is significant in addressing global supply chain issues by reducing the prevalence of counterfeit goods and enhancing transparency and trust.",
+    tags: [
+      {
+        name: "Solidity",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Hardhat",
+        color: "green-text-gradient",
+      },
+      {
+        name: "React",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "NodeJs",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "ethers.js",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: identeefi,
+    source_code_link: "https://github.com/Giddy-K/anti-counterfeit-product-identification-system-using-blockchain.git",
   },
   {
     name: "LinkedInt",
@@ -298,7 +328,7 @@ const projects = [
       },
       {
         name: "CMD",
-        color: "green-text-gradient",
+        color: "orange-text-gradient",
       }
     ],
     image: hades,
@@ -324,7 +354,7 @@ const projects = [
       },
       {
         name: "VBScript",
-        color: "blue-text-gradient",
+        color: "orange-text-gradient",
       },
       {
         name: "Batchfile",
