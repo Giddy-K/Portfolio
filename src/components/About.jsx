@@ -44,20 +44,25 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
         <p>
-          I am a dynamic and versatile full stack developer with expertise in
-          web and Android application development. With a strong foundation in
-          frontend technologies such as HTML, CSS, and JavaScript, I create
-          engaging and interactive user interfaces. My proficiency in backend
-          languages like Node.js and Python allows me to design efficient APIs
-          and integrate databases for seamless data flow. Additionally, my
-          skills in Java and Flutter[dart] enable me to develop intuitive and
-          feature-rich Android applications. I bring an added creative flair to
-          my projects through my expertise in Figma designs, ensuring visually
-          appealing and user-centric interfaces. Furthermore, my knowledge of
-          computer system maintenance ensures smooth operations and optimized
-          performance. With a passion for delivering comprehensive solutions, I
-          am dedicated to creating robust and scalable applications that exceed
-          expectations.
+          I am a dynamic and versatile full-stack developer specializing in
+          modern web and Android application development. My expertise spans the
+          MERN stack (MongoDB, Express.js, React, and Node.js), enabling me to
+          build robust, scalable, and data-driven applications. With a strong
+          foundation in frontend technologies such as HTML, CSS, and JavaScript
+          (ES6+), along with experience in frameworks like React and Next.js, I
+          craft engaging and interactive user interfaces. On the backend, my
+          proficiency in Node.js, Express.js, and Python empowers me to design
+          efficient APIs and seamlessly integrate databases, including MongoDB
+          and PostgreSQL, for smooth data flow. In addition, my skills in Java
+          and Flutter (Dart) allow me to develop intuitive, cross-platform, and
+          feature-rich mobile applications for Android. I enhance my projects
+          with visually appealing, user-centric designs created using Figma,
+          bringing a refined creative touch to every application. My technical
+          knowledge extends to DevOps practices, containerization with Docker,
+          and deployment pipelines, ensuring optimized, production-ready
+          solutions. Driven by a passion for delivering comprehensive,
+          innovative, and scalable applications, I am dedicated to exceeding
+          expectations in every project.
         </p>
 
         <p className="mt-4">
@@ -79,15 +84,14 @@ const About = () => {
         </p>
 
         <p className="mt-4">
-          I value the player experience above all else. I want players
-          to feel a sense of wonder, excitement, and satisfaction when they
-          interact with my games. I strive to create intuitive controls,
-          balanced gameplay mechanics, and memorable moments that leave a
-          lasting impact. Furthermore, I am fascinated by the potential of
-          emerging technologies such as virtual reality (VR) and augmented
-          reality (AR) in game development. I see these technologies as powerful
-          tools for delivering even more immersive and transformative
-          experiences to players.
+          I value the player experience above all else. I want players to feel a
+          sense of wonder, excitement, and satisfaction when they interact with
+          my games. I strive to create intuitive controls, balanced gameplay
+          mechanics, and memorable moments that leave a lasting impact.
+          Furthermore, I am fascinated by the potential of emerging technologies
+          such as virtual reality (VR) and augmented reality (AR) in game
+          development. I see these technologies as powerful tools for delivering
+          even more immersive and transformative experiences to players.
         </p>
       </motion.p>
 
