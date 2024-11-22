@@ -15,9 +15,6 @@ import {
   git,
   figma,
   docker,
-  carrent,
-  jobit,
-  tripguide,
   ican,
   stockmgt,
   threejs,
@@ -175,10 +172,6 @@ const technologies = [
   {
     name: "Godot Engine",
     icon: godot,
-  },
-  {
-    name: "AWS",
-    icon: aws,
   },
   {
     name: "Kubernetes",
