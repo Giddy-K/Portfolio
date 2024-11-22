@@ -26,6 +26,16 @@ import {
   flutter,
   cpp,
   c,
+  graphql,
+  flask,
+  django,
+  nextjs,
+  kotlin,
+  csharp,
+  godot,
+  aws,
+  kubernetes,
+  ganache,
   nftopia,
   themaze,
   linkedint,
@@ -137,6 +147,50 @@ const technologies = [
   {
     name: "c",
     icon: c,
+  },
+  {
+    name: "GraphQL",
+    icon: graphql,
+  },
+  {
+    name: "Flask",
+    icon: flask,
+  },
+  {
+    name: "Django",
+    icon: django,
+  },
+  {
+    name: "NestJS",
+    icon: nextjs,
+  },
+  {
+    name: "Kotlin",
+    icon: kotlin,
+  },
+  {
+    name: "Unity (C#)",
+    icon: csharp,
+  },
+  {
+    name: "Godot Engine",
+    icon: godot,
+  },
+  {
+    name: "AWS",
+    icon: aws,
+  },
+  {
+    name: "Kubernetes",
+    icon: kubernetes,
+  },
+  {
+    name: "AWS",
+    icon: aws,
+  },
+  {
+    name: "Ganache",
+    icon: ganache,
   },
 ];
 
@@ -252,7 +306,8 @@ const projects = [
     ],
     image: stockmgt,
     live_link: "https://atlas-stock-app.vercel.app/",
-    source_code_link: "https://github.com/Giddy-K/atlas-inventory-management-system.git",
+    source_code_link:
+      "https://github.com/Giddy-K/atlas-inventory-management-system.git",
   },
   {
     name: "Anti-Counterfeit Product Identification System",
@@ -281,7 +336,8 @@ const projects = [
       },
     ],
     image: identeefi,
-    source_code_link: "https://github.com/Giddy-K/anti-counterfeit-product-identification-system-using-blockchain.git",
+    source_code_link:
+      "https://github.com/Giddy-K/anti-counterfeit-product-identification-system-using-blockchain.git",
   },
   {
     name: "LinkedInt",
@@ -329,7 +385,7 @@ const projects = [
       {
         name: "CMD",
         color: "orange-text-gradient",
-      }
+      },
     ],
     image: hades,
     live_link: "",
@@ -359,7 +415,7 @@ const projects = [
       {
         name: "Batchfile",
         color: "green-text-gradient",
-      }
+      },
     ],
     image: reverseshell,
     live_link: "",
@@ -406,7 +462,8 @@ const projects = [
       },
     ],
     image: nftopia,
-    live_link: "https://659c36eeeaaf090759615ad3--dynamic-granita-e11512.netlify.app/",
+    live_link:
+      "https://659c36eeeaaf090759615ad3--dynamic-granita-e11512.netlify.app/",
     source_code_link: "https://github.com/Giddy-K/NFTopia.git",
   },
   {

@@ -66,21 +66,22 @@ const About = () => {
         </p>
 
         <p className="mt-4">
-          As an aspiring game developer, I am driven by a deep passion for
-          creating immersive and captivating gaming experiences. I envision
-          developing games that transport players to new worlds, evoke emotions,
-          and provide endless hours of enjoyment. I believe that game
-          development is an art form that combines technical expertise with
-          creativity. I strive to master various game development frameworks,
-          engines, and programming languages to bring my ideas to life. Whether
-          it&apos;s Unity, Unreal Engine, or other tools, I am committed to
-          honing my skills and staying up-to-date with the latest advancements
-          in the industry. In my game development journey, I aim to explore
-          different genres, from action-packed adventures to puzzle-solving
-          challenges and thought-provoking narratives. I am excited about
-          crafting engaging gameplay mechanics, designing visually stunning
-          environments, and implementing captivating storytelling elements that
-          resonate with players.
+          Beyond web and mobile development, I am passionate about game
+          development, driven by a deep passion for creating immersive and
+          captivating gaming experiences. I envision developing games that
+          transport players to new worlds, evoke emotions, and provide endless
+          hours of enjoyment. I believe that game development is an art form
+          that combines technical expertise with creativity. I strive to master
+          various game development frameworks, engines, and programming
+          languages to bring my ideas to life. Whether it&apos;s Unity, Unreal
+          Engine, or other tools, I am committed to honing my skills and staying
+          up-to-date with the latest advancements in the industry. In my game
+          development journey, I aim to explore different genres, from
+          action-packed adventures to puzzle-solving challenges and
+          thought-provoking narratives. I am excited about crafting engaging
+          gameplay mechanics, designing visually stunning environments, and
+          implementing captivating storytelling elements that resonate with
+          players.
         </p>
 
         <p className="mt-4">
@@ -92,6 +93,13 @@ const About = () => {
           such as virtual reality (VR) and augmented reality (AR) in game
           development. I see these technologies as powerful tools for delivering
           even more immersive and transformative experiences to players.
+        </p>
+
+        <p className="mt-4">
+          Note: While I showcase select projects, I cannot display all the work
+          I’ve done for companies and organizations due to NDAs. However, I
+          bring the same level of commitment and expertise to every project,
+          ensuring optimal outcomes for clients and collaborators.
         </p>
       </motion.p>
 

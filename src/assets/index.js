@@ -7,7 +7,16 @@ import github from "./github.png";
 import live from "./live.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
-
+import aws from "./tech/aws.png";
+import csharp from "./tech/csharp.png";
+import django from "./tech/django.png";
+import flask from "./tech/flask.png";
+import ganache from "./tech/ganache.png";
+import godot from "./tech/godot.png";
+import graphql from "./tech/graphQL.png";
+import kotlin from "./tech/kotlin.png";
+import kubernetes from "./tech/kubernetes.png";
+import nextjs from "./tech/nextjs.png";
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
@@ -52,6 +61,16 @@ export {
   flutter,
   cpp,
   c,
+  aws,
+  csharp,
+  django,
+  flask,
+  ganache,
+  godot,
+  graphql,
+  kotlin,
+  kubernetes,
+  nextjs,
   placeholder,
   logo,
   backend,
