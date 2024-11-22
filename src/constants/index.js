@@ -62,15 +62,15 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Full Stack Software Engineer",
     icon: web,
   },
   {
-    title: "React Developer",
+    title: "Ethical Hacker",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Game Developer",
     icon: backend,
   },
   {
@@ -230,7 +230,7 @@ const experiences = [
     ],
   },
   {
-    title: "Full stack Developer | Game Developer | Cyber-Security",
+    title: "Full stack Developer | Game Developer | Ethical Hacker",
     company_name: "FreeLancer",
     icon: placeholder,
     iconBg: "#E6DEDD",
@@ -245,7 +245,7 @@ const experiences = [
       "Collaborating with artists and sound designers to create immersive game experiences.",
       "Implementing game mechanics, user interfaces, and AI behavior for a variety of game genres.",
       "Optimizing game performance across multiple platforms and devices.",
-      "Cyber-Security:",
+      "Ethical Hacker:",
       "Conducting network and application vulnerability assessments to ensure robust security measures.",
       "Implementing security protocols and practices to protect client systems from cyber threats.",
       "Learning and applying penetration testing techniques on various platforms.",
