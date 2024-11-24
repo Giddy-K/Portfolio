@@ -189,7 +189,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Flutter Developer",
+    title: "Cross-Platform Mobile Developer",
     company_name: "Kinetic Technology Limited",
     icon: placeholder,
     iconBg: "#383E56",
@@ -202,13 +202,13 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
+    title: "Full Stack Developer",
     company_name: "Atlas",
     icon: placeholder,
     iconBg: "#E6DEDD",
     date: "January 2023 - April 2023",
     points: [
-      "Developing and maintaining a Stock and Inventory web application using MERN stack and other related technologies.",
+      "Developing and maintaining the Atlas Stock and Inventory web application using MERN stack and React Native FrameWork and other related technologies.",
     ],
   },
   {
@@ -227,7 +227,7 @@ const experiences = [
     company_name: "FreeLancer",
     icon: placeholder,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "June 2023 - Present",
     points: [
       "Full stack Developer:",
       "Developing and maintaining web applications and android applications for various clients using React.js and flutter and other related technologies.",
@@ -453,10 +453,14 @@ const projects = [
         name: "Typescript",
         color: "pink-text-gradient",
       },
+      {
+        name: "#HACKATHON PROJECT",
+        color: "orange-text-gradient",
+      },
     ],
     image: nftopia,
     live_link:
-      "https://659c36eeeaaf090759615ad3--dynamic-granita-e11512.netlify.app/",
+      "https://dynamic-granita-e11512.netlify.app/",
     source_code_link: "https://github.com/Giddy-K/NFTopia.git",
   },
   {
