@@ -454,7 +454,7 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "#HACKATHON PROJECT",
+        name: "#HACKATHON PROJECT##",
         color: "orange-text-gradient",
       },
     ],
