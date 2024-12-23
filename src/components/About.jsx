@@ -93,6 +93,7 @@ const About = () => {
           such as virtual reality (VR) and augmented reality (AR) in game
           development. I see these technologies as powerful tools for delivering
           even more immersive and transformative experiences to players.
+          
         </p>
 
         <p className="mt-4">
