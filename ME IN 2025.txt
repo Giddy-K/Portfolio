@@ -1,0 +1,263 @@
+ME IN 2025:
+
+1. Programming Languages
+General-Purpose Languages
+
+    C
+    C++
+    C#
+    Java
+    Python
+    JavaScript
+    TypeScript
+    Kotlin
+    VB.NET
+    Dart
+#TODO
+    Go (Golang)
+    Rust
+    Swift
+    Ruby
+    PHP
+    
+Low-Level & Systems Programming
+
+    Assembly (x86, ARM, MIPS, RISC-V)
+#TODO
+    D
+    Ada
+
+Scripting & Automation
+
+    Bash
+    PowerShell
+#TODO
+    Groovy
+    AutoHotkey
+
+Functional Programming
+#TODO
+    Lisp
+    Erlang
+
+Database Query Languages
+
+    SQL
+#TODO
+    PL/SQL
+    T-SQL
+    GraphQL
+    Datalog
+
+Game Development
+
+    GDScript (Godot)
+#TODO
+    Blueprints (Unreal Engine)
+    AngelScript
+
+Blockchain & Smart Contract Languages
+
+    Solidity
+#TODO
+    Rust (for Solana, Polkadot)
+
+2. Web Development Frameworks
+Frontend
+
+    React.js
+    Vue.js
+#TODO
+    Angular
+    Svelte
+    Alpine.js
+    Next.js (React framework)
+    Nuxt.js (Vue framework)
+
+Backend
+
+    Express.js (Node.js)
+    NestJS (Node.js)
+    Spring Boot (Java)
+#TODO
+    Django (Python)
+    Flask (Python)
+    FastAPI (Python)
+    Ruby on Rails (Ruby)
+    Laravel (PHP)
+    ASP.NET Core (C#)
+    Gin (Go)
+    Fiber (Go)
+    Echo (Go)
+    Revel (Go)
+    Actix (Rust)
+    Rocket (Rust)
+    Phoenix (Elixir)
+
+3. Mobile Development Frameworks
+
+    Flutter (Dart)
+    React Native (JavaScript)
+    Kotlin Multiplatform Mobile (KMM)
+#TODO
+    SwiftUI (Swift)
+    Unity (C#)
+    Godot (GDScript, C#)
+
+4. Desktop Development Frameworks
+#TODO
+    Electron.js
+    Tauri
+    WPF (C#)
+    WinUI (C#)
+    GTK (C, Python, Rust)
+    Qt (C++, Python)
+    Avalonia (C#)
+    JavaFX (Java)
+
+5. DevOps & Cloud Technologies
+Containerization & Orchestration
+#TODO
+    Docker
+    Kubernetes
+    Podman
+    OpenShift
+    Nomad
+
+Infrastructure as Code (IaC)
+
+    Terraform
+#TODO
+    Pulumi
+    CloudFormation
+    Ansible
+
+CI/CD Tools
+
+    GitHub Actions
+    GitLab CI/CD
+#TODO
+    Jenkins
+    Travis CI
+    CircleCI
+    ArgoCD
+    Drone
+    Bitbucket Pipelines
+
+Cloud Platforms
+    Heroku
+    Firebase
+    Google Cloud Platform (GCP)
+#TODO
+    AWS
+    Microsoft Azure
+    DigitalOcean
+    Linode
+    Cloudflare Workers
+
+6. Databases
+SQL Databases
+
+    PostgreSQL
+    MySQL
+    MariaDB
+    SQLite
+    Microsoft SQL Server
+#TODO
+    Oracle DB
+
+NoSQL Databases
+
+    MongoDB
+    Firebase Firestore
+    Redis
+#TODO
+    CouchDB
+    Cassandra
+    DynamoDB
+    Neo4j (Graph Database)
+    ArangoDB
+    FaunaDB
+
+7. Cybersecurity & Ethical Hacking Tools
+
+    Metasploit
+    Wireshark
+    Nmap
+    Burp Suite
+    Aircrack-ng
+#TODO
+    John the Ripper
+    Hydra
+    OSINT Framework
+    Snort
+    Zeek
+
+8. Game Development Engines
+
+    Unity (C#)
+    Godot (GDScript, C#)
+#TODO
+    Unreal Engine (C++)
+    CryEngine
+    Cocos2d
+    Panda3D
+
+10. Blockchain & Web3 Tools
+
+    Hardhat
+#TODO
+    Truffle
+    Foundry
+    The Graph
+    OpenZeppelin
+    IPFS
+
+11. Testing Frameworks
+Unit Testing
+
+    Jest (JavaScript)
+    Mocha (JavaScript)
+    JUnit (Java)
+#TODO
+    PyTest (Python)
+    NUnit (C#)
+
+API Testing
+
+    Postman
+#TODO
+    Newman
+    Cypress
+    SuperTest
+
+12. Code Editors & IDEs
+
+    Visual Studio Code (VS Code)
+    Android Studio (Kotlin, Java)
+    Eclipse
+#TODO
+    JetBrains IntelliJ IDEA (Java, Kotlin)
+    JetBrains WebStorm (JavaScript)
+    JetBrains PyCharm (Python)
+    JetBrains Rider (C#)
+    NetBeans
+    Xcode (Swift, Objective-C)
+
+13. Version Control & Collaboration
+
+    Git
+    GitHub
+    GitLab
+#TODO
+    Bitbucket
+    Mercurial
+    SVN
+
+14. API Development & Documentation
+
+    Postman
+#TODO
+    Swagger (OpenAPI)
+    Insomnia
+    GraphQL Playground
