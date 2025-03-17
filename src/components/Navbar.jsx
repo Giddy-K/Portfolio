@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 import { styles } from "../styles";
 import { navLinks } from "../constants";
-import { menu, close } from "../assets";
+import { menu, close, logo } from "../assets";
 
 const Navbar = () => {
   const [active, setActive] = useState("");
@@ -22,9 +22,9 @@ const Navbar = () => {
           }}
         >
           <img
-            src="/src/assets/logo2.svg"
-            height="36px"
-            width="36px"
+            src={logo}
+            height="40px"
+            width="40px"
             alt="logo"
             className="w-9 h-9 object-contain"
           />
