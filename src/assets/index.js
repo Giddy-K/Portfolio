@@ -7,14 +7,27 @@ import github from "./github.png";
 import live from "./live.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+
+//Tech stack
+import c from "./tech/C.png";
+import cpp from "./tech/CPP.png";
+import csharp from "./tech/c-sharp.png";
+import java from  "./tech/java.png";
+import python from "./tech/python.png";
+import javascript from "./tech/javascript.png";
+import typescript from "./tech/typescript.png";
+import kotlin from "./tech/kotlin.png";
+import vb from "./tech/VB.png";
+import dart from "./tech/Dart.png";
+import flutter from "./tech/Flutter.png";
+import php from "./tech/PHP.png";
+import assembly from "./tech/Assembly.png";
 import aws from "./tech/aws.png";
-import csharp from "./tech/csharp.png";
 import django from "./tech/django.png";
 import flask from "./tech/flask.png";
 import ganache from "./tech/ganache.png";
 import godot from "./tech/godot.png";
 import graphql from "./tech/graphQL.png";
-import kotlin from "./tech/kotlin.png";
 import kubernetes from "./tech/kubernetes.png";
 import nextjs from "./tech/nextjs.png";
 import css from "./tech/css.png";
@@ -22,25 +35,22 @@ import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
-import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-import dart from "./tech/Dart.png";
-import flutter from "./tech/Flutter.png";
-import cpp from "./tech/CPP.png";
-import c from "./tech/C.png";
 
+
+//Company logos
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import placeholder from "./company/placeholder.jpg";
 
+//Project
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -55,12 +65,18 @@ import warpath from "./warpathheros.png";
 import identeefi from "./identeefi.png";
 
 export {
-  ican,
-  stockmgt,
+  c,
+  cpp,
+  java,
+  python,
+  javascript,
+  typescript,
+  kotlin,
+  vb,
   dart,
   flutter,
-  cpp,
-  c,
+  php,
+  assembly,
   aws,
   csharp,
   django,
@@ -68,7 +84,6 @@ export {
   ganache,
   godot,
   graphql,
-  kotlin,
   kubernetes,
   nextjs,
   placeholder,
@@ -86,13 +101,11 @@ export {
   figma,
   git,
   html,
-  javascript,
   mongodb,
   nodejs,
   reactjs,
   redux,
   tailwind,
-  typescript,
   threejs,
   meta,
   shopify,
@@ -108,4 +121,6 @@ export {
   hades,
   warpath,
   identeefi,
+  ican,
+  stockmgt,
 };
