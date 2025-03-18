@@ -13,12 +13,13 @@ General-Purpose Languages
     Kotlin
     VB.NET
     Dart
+    PHP
 #TODO
     Go (Golang)
     Rust
     Swift
     Ruby
-    PHP
+
     
 Low-Level & Systems Programming
 
@@ -52,6 +53,7 @@ Database Query Languages
 Game Development
 
     GDScript (Godot)
+    Unity
 #TODO
     Blueprints (Unreal Engine)
     AngelScript
@@ -79,9 +81,9 @@ Backend
     Express.js (Node.js)
     NestJS (Node.js)
     Spring Boot (Java)
-#TODO
     Django (Python)
     Flask (Python)
+#TODO
     FastAPI (Python)
     Ruby on Rails (Ruby)
     Laravel (PHP)
