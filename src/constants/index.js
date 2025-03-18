@@ -15,7 +15,6 @@ import {
   git,
   figma,
   docker,
-  ican,
   stockmgt,
   threejs,
   placeholder,
@@ -33,7 +32,9 @@ import {
   aws,
   kubernetes,
   ganache,
+  //Projects
   nftopia,
+  ican,
   themaze,
   linkedint,
   reverseshell,
