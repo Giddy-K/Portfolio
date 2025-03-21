@@ -32,6 +32,9 @@ import {
   aws,
   kubernetes,
   ganache,
+  python,
+  php,
+  vb,
   //Projects
   nftopia,
   ican,
@@ -185,6 +188,18 @@ const technologies = [
   {
     name: "Ganache",
     icon: ganache,
+  },
+  {
+    name: "Python",
+    icon: python,
+  },
+  {
+    name: "PHP",
+    icon: php,
+  },
+  {
+    name: "VB.Net",
+    icon: vb,
   },
 ];
 
