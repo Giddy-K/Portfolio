@@ -39,7 +39,7 @@ const About = () => {
         <h2 className={styles.sectionHeadText}>Overview.</h2>
       </motion.div>
 
-      <motion.p
+      <motion.div
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[16px] sm:text-[17px] leading-[28px] sm:leading-[30px] max-w-full sm:max-w-3xl px-4 sm:px-0"
       >
@@ -102,7 +102,7 @@ const About = () => {
           bring the same level of commitment and expertise to every project,
           ensuring optimal outcomes for clients and collaborators.
         </p>
-      </motion.p>
+      </motion.div>
 
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
