@@ -54,6 +54,7 @@ const ComputersCanvas = () => {
   }, []);
 
   return (
+    <div className="w-full h-full xs:h-[500px] md:h-[600px]">
     <Canvas
       frameloop="demand"
       shadows
@@ -70,6 +71,7 @@ const ComputersCanvas = () => {
       </Suspense>
       <Preload />
     </Canvas>
+    </div>
   );
 };
 
