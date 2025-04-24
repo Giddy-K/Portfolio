@@ -81,14 +81,14 @@ const services = [
 ];
 
 const technologies = [
-  {
-    name: "HTML 5",
-    icon: html,
-  },
-  {
-    name: "CSS 3",
-    icon: css,
-  },
+  // {
+  //   name: "HTML 5",
+  //   icon: html,
+  // },
+  // {
+  //   name: "CSS 3",
+  //   icon: css,
+  // },
   {
     name: "JavaScript",
     icon: javascript,
@@ -101,42 +101,42 @@ const technologies = [
     name: "React JS",
     icon: reactjs,
   },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
-  },
-  {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
-    name: "git",
-    icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
-  },
-  {
-    name: "dart",
-    icon: dart,
-  },
+  // {
+  //   name: "Redux Toolkit",
+  //   icon: redux,
+  // },
+  // {
+  //   name: "Tailwind CSS",
+  //   icon: tailwind,
+  // },
+  // {
+  //   name: "Node JS",
+  //   icon: nodejs,
+  // },
+  // {
+  //   name: "MongoDB",
+  //   icon: mongodb,
+  // },
+  // {
+  //   name: "Three JS",
+  //   icon: threejs,
+  // },
+  // {
+  //   name: "git",
+  //   icon: git,
+  // },
+  // {
+  //   name: "figma",
+  //   icon: figma,
+  // },
+  // {
+  //   name: "docker",
+  //   icon: docker,
+  // },
+  // {
+  //   name: "dart",
+  //   icon: dart,
+  // },
   {
     name: "flutter",
     icon: flutter,
@@ -149,22 +149,22 @@ const technologies = [
     name: "c",
     icon: c,
   },
-  {
-    name: "GraphQL",
-    icon: graphql,
-  },
-  {
-    name: "Flask",
-    icon: flask,
-  },
-  {
-    name: "Django",
-    icon: django,
-  },
-  {
-    name: "NestJS",
-    icon: nextjs,
-  },
+  // {
+  //   name: "GraphQL",
+  //   icon: graphql,
+  // },
+  // {
+  //   name: "Flask",
+  //   icon: flask,
+  // },
+  // {
+  //   name: "Django",
+  //   icon: django,
+  // },
+  // {
+  //   name: "NestJS",
+  //   icon: nextjs,
+  // },
   {
     name: "Kotlin",
     icon: kotlin,
@@ -185,18 +185,18 @@ const technologies = [
     name: "AWS",
     icon: aws,
   },
-  {
-    name: "Ganache",
-    icon: ganache,
-  },
+  // {
+  //   name: "Ganache",
+  //   icon: ganache,
+  // },
   {
     name: "Python",
     icon: python,
   },
-  {
-    name: "PHP",
-    icon: php,
-  },
+  // {
+  //   name: "PHP",
+  //   icon: php,
+  // },
   {
     name: "VB.Net",
     icon: vb,
