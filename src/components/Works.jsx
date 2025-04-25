@@ -1,7 +1,7 @@
 import React from "react";
 import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
-import PropTypes from 'prop-types';
+import PropTypes from "prop-types";
 
 import { styles } from "../styles";
 import { github, live } from "../assets";
@@ -38,23 +38,27 @@ const ProjectCard = ({
           <div className="absolute inset-0 flex justify-end m-3 card-img_hover">
             <div
               onClick={() => window.open(live_link, "_blank")}
-              className="black-gradient w-10 h-10 rounded-full flex justify-center items-center cursor-pointer"
+              className="black-gradient w-8 h-8 rounded-full flex justify-center items-center cursor-pointer"
             >
-              <img
+              {/* Live link icon */}
+              {/* <img
                 src={live}
                 alt="source code"
                 className="w-1/2 h-1/2 object-contain"
-              />
+              /> */}
+              <i className="fas fa-external-link-alt text-white text-xl"></i>{" "}
             </div>
             <div
               onClick={() => window.open(source_code_link, "_blank")}
-              className="black-gradient w-10 h-10 rounded-full flex justify-center items-center cursor-pointer"
+              className="black-gradient w-8 h-8 rounded-full flex justify-center items-center cursor-pointer"
             >
-              <img
+              {/* GitHub icon */}
+              <i className="fab fa-github text-white text-xl"></i>{" "}
+              {/* <img
                 src={github}
                 alt="source code"
                 className="w-1/2 h-1/2 object-contain"
-              />
+              /> */}
             </div>
           </div>
         </div>
@@ -113,7 +117,7 @@ const Works = () => {
           links to code repositories and live demos in it. It reflects my
           ability to solve complex problems, work with different technologies,
           and manage projects effectively.
-          </motion.p>
+        </motion.p>
       </div>
 
       <div className="mt-20 flex flex-wrap gap-7">
