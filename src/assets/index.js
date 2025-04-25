@@ -49,6 +49,10 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import placeholder from "./company/placeholder.jpg";
+import kinetic from "./company/kinetic_technology_ltd_logo.jpeg";
+import icanlogo from "./company/iselenken_collection_network.png";
+import atlas from "./company/atlas.png";
+import giddy from "./company/giddy.png";
 
 //Project
 import carrent from "./carrent.png";
@@ -123,4 +127,8 @@ export {
   identeefi,
   ican,
   stockmgt,
+  kinetic,
+  icanlogo,
+  giddy,
+  atlas,
 };
