@@ -18,6 +18,7 @@ import {
   stockmgt,
   threejs,
   placeholder,
+  kinetic,
   dart,
   flutter,
   cpp,
@@ -44,6 +45,9 @@ import {
   hades,
   warpath,
   identeefi,
+  icanlogo,
+  giddy,
+  atlas,
 } from "../assets";
 
 export const navLinks = [
@@ -206,8 +210,8 @@ const technologies = [
 const experiences = [
   {
     title: "Cross-Platform Mobile Developer",
-    company_name: "Kinetic Technology Limited",
-    icon: placeholder,
+    company_name: "Kinetics Technology Limited",
+    icon: kinetic,
     iconBg: "#383E56",
     date: "September 2022 - January 2023",
     points: [
@@ -220,7 +224,7 @@ const experiences = [
   {
     title: "Full Stack Developer",
     company_name: "Atlas",
-    icon: placeholder,
+    icon: atlas,
     iconBg: "#E6DEDD",
     date: "January 2023 - April 2023",
     points: [
@@ -230,7 +234,7 @@ const experiences = [
   {
     title: "Web Developer",
     company_name: "ICAN",
-    icon: placeholder,
+    icon: icanlogo,
     iconBg: "#383E56",
     date: "April 2023 - June 2023",
     points: [
@@ -241,7 +245,7 @@ const experiences = [
   {
     title: "Full stack Developer | Game Developer | Ethical Hacker",
     company_name: "FreeLancer",
-    icon: placeholder,
+    icon: giddy,
     iconBg: "#E6DEDD",
     date: "June 2023 - Present",
     points: [
