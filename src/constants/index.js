@@ -48,6 +48,7 @@ import {
   icanlogo,
   giddy,
   atlas,
+  aristocart,
 } from "../assets";
 
 export const navLinks = [
@@ -352,6 +353,36 @@ const projects = [
     source_code_link:
       "https://github.com/Giddy-K/anti-counterfeit-product-identification-system-using-blockchain.git",
   },
+  {
+    name: "AristoCart",
+    description:
+      "AristoCart is a full-stack multi-vendor e-commerce platform built with modern web technologies. It allows vendors to register and manage their own shops, while customers can browse and purchase products across multiple categories. The platform features secure authentication, email notifications, responsive design, and seamless admin management. Ideal for scalable online retail businesses and marketplaces.",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Spring Boot",
+        color: "green-text-gradient",
+      },
+      {
+        name: "MySQL",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "Email Integration",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "E-Commerce",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: aristocart,
+    live_link: "https://frontend-react-topaz.vercel.app/",
+    source_code_link: "https://github.com/Giddy-K/multi-vendor-marketplace",
+  },  
   {
     name: "LinkedInt",
     description:
