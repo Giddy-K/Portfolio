@@ -371,11 +371,11 @@ const projects = [
         color: "orange-text-gradient",
       },
       {
-        name: "Email Integration",
+        name: "OTP Integration",
         color: "pink-text-gradient",
       },
       {
-        name: "E-Commerce",
+        name: "Secure-Payment",
         color: "blue-text-gradient",
       },
     ],
