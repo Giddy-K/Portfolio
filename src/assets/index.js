@@ -67,6 +67,7 @@ import reverseshell from "./reverseshell.jpg";
 import hades from "./hades.jpg";
 import warpath from "./warpathheros.png";
 import identeefi from "./identeefi.png";
+import aristocart from "./AristoCart Dash.png";
 
 export {
   c,
@@ -127,6 +128,7 @@ export {
   identeefi,
   ican,
   stockmgt,
+  aristocart,
   kinetic,
   icanlogo,
   giddy,
